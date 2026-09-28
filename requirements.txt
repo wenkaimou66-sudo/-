@@ -1,0 +1,7 @@
+# Python 3.7 compatible dependencies
+numpy==1.21.6
+scipy==1.7.3
+matplotlib==3.5.3
+SimpleITK==2.1.1.2
+reportlab==3.6.12
+Pillow==9.5.0

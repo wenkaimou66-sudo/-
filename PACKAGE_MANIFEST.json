@@ -1,0 +1,95 @@
+{
+  "package": "GitHub source distribution",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 85,
+      "sha256": "13af14da0d3af599ea7234bd802ed0a333acb661b9f03c35f4e4fb88e9ceaa70"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 389,
+      "sha256": "ecbb84e6be5d23d1e72ae06eb8caf7f1792ce3382a1ac908299ceb70abbfedf7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5460,
+      "sha256": "547d91caf8c7a72c9fa08c809bba9bed1b823420eb999bd27387d8da3fd9e863"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 885,
+      "sha256": "ed6a91f8b842cc797f169dc6b963dfdc24d168debed1ac72a79090d5a95187f6"
+    },
+    {
+      "path": "docs/results_summary.json",
+      "bytes": 2432,
+      "sha256": "9872b573d9f9455d66c9aa2bf2e8c2c5039b083e86bade52e9cdf6beba8280cc"
+    },
+    {
+      "path": "download_resources.py",
+      "bytes": 1844,
+      "sha256": "ae2956b0eed95ce08f3d63e8c859fe8bc5ce00a1d50e613d2f3bc675a5dd6a11"
+    },
+    {
+      "path": "gui.py",
+      "bytes": 15113,
+      "sha256": "1585b9bfed600f75a56cd664ad30fc5f3fc5654321b18f1d2608b65f64480584"
+    },
+    {
+      "path": "make_report_pdf.py",
+      "bytes": 9522,
+      "sha256": "b96c9a088f922f83ef1098e1e3ee04c74236107fcfe727a8c80244a2234a6f34"
+    },
+    {
+      "path": "mni_pipeline.py",
+      "bytes": 12097,
+      "sha256": "f076f4c485480733e8de81eb4309ede89a2595537ce90279e7ff91328cab6a2b"
+    },
+    {
+      "path": "mni_predict_one.py",
+      "bytes": 1646,
+      "sha256": "0eb8225fcf83cc5559afc82ca5bcd13d85c0243aae85efb8de5f77b2ba9d8480"
+    },
+    {
+      "path": "mri_pipeline.py",
+      "bytes": 12913,
+      "sha256": "918da41c1b0d07d41b3d9758703b6e92f1bccece5326231448c47d37f4d8bf3a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 140,
+      "sha256": "6c4d63bc75e1a24d06a94a75de8d37601a2c9408858cb726b88812d238744a38"
+    },
+    {
+      "path": "resources/README.md",
+      "bytes": 374,
+      "sha256": "18bc3eb10840df457bc6ac36aa8277b9c0e84b5f9eb10862960a0b55dbde4d13"
+    },
+    {
+      "path": "run_experiment.py",
+      "bytes": 19616,
+      "sha256": "9ceac8b11ce5dacbeb295773c1e8683fd2e85226560ebbceb3674321801af505"
+    },
+    {
+      "path": "run_mni_experiment.py",
+      "bytes": 12860,
+      "sha256": "bb83d2702a650b3828948d5f8ad0830d9178abeaa18c328a9cdda3ea2576e1d6"
+    },
+    {
+      "path": "setup_windows.bat",
+      "bytes": 862,
+      "sha256": "079a17186f64f42bd5923e3fcb37e4b4fbe290e18befd0476a7559e3e8b714b2"
+    },
+    {
+      "path": "start_software.bat",
+      "bytes": 408,
+      "sha256": "915f46efb85f1a7f2fd0bd6b8c0e228a3a7774e8785f4606564801aa8a5e598b"
+    },
+    {
+      "path": "validate_mni.py",
+      "bytes": 2883,
+      "sha256": "ccd39bbea61bba1450d6eff7fb4bd0f9d5d519f01b10927644d086a086123f43"
+    }
+  ]
+}
